@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BWDa8LdnajFnQz59J2tzXrXiKX1i6P8jeba3QKXVJ8LU",
+      "symbol": "asdf",
+      "name": "asdf",
+      "decimals": "6",
+      "logoURI": "asdfsadf",
+      "tags": [
+        "asdfasdf"
+      ],
+      "extensions": {
+        "website": "asdfwef",
+        "twitter": "asdfasdf"
+      }
     }
   ],
   "version": {
