@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Egyk7tbEsFH2HFgCjdFx4PNt42dm9GN9Cd2bL2FfJ97A",
+      "symbol": "osadjfwoeifj",
+      "name": "aosidjfwoeifj",
+      "decimals": 1,
+      "logoURI": "asldkjfoewijf",
+      "tags": [
+        "asdf"
+      ],
+      "extensions": {
+        "website": "oijasdfwef",
+        "twitter": "aowiejfowiejf"
+      }
     }
   ],
   "version": {
