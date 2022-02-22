@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HWSqksG11uGDmwLgcDMAdSo5XFkUPPQs4nUZTzytXscZ",
+      "symbol": "WNA",
+      "name": "test token a",
+      "decimals": "9",
+      "logoURI": "https://hatchbetter.ca/favicon/favicon-32x32.png",
+      "tags": [
+        "game"
+      ],
+      "extensions": {
+        "website": "https://hatchbetter.ca",
+        "twitter": "https://twitter.com/winstonkng"
+      }
     }
   ],
   "version": {
