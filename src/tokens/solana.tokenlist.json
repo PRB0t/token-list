@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6sM29J2puYJjNXascP4YvPXS21zDqfMtugJAmM5QfT5w",
+      "symbol": "Hello",
+      "name": "asdfasdf",
+      "decimals": "2",
+      "logoURI": "123123123",
+      "tags": [
+        "123123"
+      ],
+      "extensions": {
+        "website": "123123",
+        "twitter": "123123123"
+      }
     }
   ],
   "version": {
