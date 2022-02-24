@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BYugJ1NMU8mZ2YEmgoZ8STpP9XjXvvg9cLE9jzdRKHYe",
+      "symbol": "asdf",
+      "name": "asef",
+      "decimals": "1",
+      "logoURI": "aosijwef",
+      "tags": [
+        "oiawef"
+      ],
+      "extensions": {
+        "website": "aoiwjef",
+        "twitter": "oijawef"
+      }
     }
   ],
   "version": {
