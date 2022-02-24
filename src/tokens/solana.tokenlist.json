@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BUs1rcKxRVCx44mJZaYuaiY9fnqSqEpBnYSGoTpzosKv",
+      "symbol": "lkjAWEF",
+      "name": "OIJAWOEFIJ",
+      "decimals": "9",
+      "logoURI": "JIOAWEF",
+      "tags": [
+        "OIAJWEF"
+      ],
+      "extensions": {
+        "website": "AJOIWEF",
+        "twitter": "OIJAWEF"
+      }
     }
   ],
   "version": {
