@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "Fcbm6jLA5veSdWKt98UwNAoJ5hCkjR8xD97BVcjgW5YF",
+      "symbol": "WinstonDollar",
+      "name": "WD",
+      "decimals": "9",
+      "logoURI": "https://mixmob.io/abc.png",
+      "tags": [
+        "winston"
+      ],
+      "extensions": {
+        "website": "https://hatchbetter.ca",
+        "twitter": "https://twitter.com/asdfasdf"
+      }
     }
   ],
   "version": {
