@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "CHsy68ZrfNJyhpyB71rgejgYd36ikCSTPxYWsCmPLLxf",
+      "symbol": "WNA",
+      "name": "WinstonTEst3",
+      "decimals": "6",
+      "logoURI": "https://mixmob.io/icon.png",
+      "tags": [
+        "test"
+      ],
+      "extensions": {
+        "website": "https://mixmob.io",
+        "twitter": "https://mixmob.io/winstonkng"
+      }
     }
   ],
   "version": {
