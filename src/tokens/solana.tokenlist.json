@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "HnuM1MY6EDkboXe5H1k88Xz29vxLd2BPM7JXcq4R9XUd",
+      "symbol": "SKY1",
+      "name": "Sky Token",
+      "decimals": "6",
+      "logoURI": "http://sky.com/ico.png",
+      "tags": [
+        "Sky"
+      ],
+      "extensions": {
+        "website": "http://sky.com",
+        "twitter": "https://twitter.com/sky"
+      }
     }
   ],
   "version": {
