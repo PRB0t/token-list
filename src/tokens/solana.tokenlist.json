@@ -116769,6 +116769,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4ixe7k3vmtrThJ5MX5YbxsyJ9UsXNMT23ucaT9Q1WDcw",
+      "symbol": "MXM",
+      "name": "MixMob",
+      "decimals": "6",
+      "logoURI": "https://uploads-ssl.webflow.com/6204753c4ec43e44e0607512/621e931fa8f317fe1a9b644d_token.png",
+      "tags": [
+        "GameFi",
+        "P2E",
+        "NFTGame",
+        "Game"
+      ],
+      "extensions": {
+        "website": "mixmob.io",
+        "twitter": "https://twitter.com/MixMobOrigin"
+      }
     }
   ],
   "version": {
