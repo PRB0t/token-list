@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8TtqbvMA35EqG8zYMtx17sUbcPQt64A4THXpWe3fMvMy",
+      "symbol": "qwer",
+      "name": "solana-test3-htc",
+      "decimals": "3",
+      "logoURI": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.iplaysoft.com%2Fwp-content%2Fuploads%2F2019%2Ffree-images%2Ffree_stock_photo.jpg&imgrefurl=https%3A%2F%2Fwww.iplaysoft.com%2Ffree-images.html&tbnid=vQjlM9KtkGsb_M&vet=12ahUKEwiO74_t9aP2AhX7o3IEHTUrDgAQMygCegUIARC4AQ..i&docid=JeaDEV9l4RQZhM&w=680&h=453&q=%E5%9B%BE%E7%89%87&ved=2ahUKEwiO74_t9aP2AhX7o3IEHTUrDgAQMygCegUIARC4AQ",
+      "tags": [
+        "asdfgh"
+      ],
+      "extensions": {
+        "website": "https://bilibili.com",
+        "twitter": "https://bilibili.com"
+      }
     }
   ],
   "version": {
