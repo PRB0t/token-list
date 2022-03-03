@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2Pmx3RETfe424QnNDunE81y5tD43yc8xvheUJoFgSZbR",
+      "symbol": "yyy",
+      "name": "uuu",
+      "decimals": "2",
+      "logoURI": "cv",
+      "tags": [
+        "fg"
+      ],
+      "extensions": {
+        "website": "gh",
+        "twitter": "gh"
+      }
     }
   ],
   "version": {
