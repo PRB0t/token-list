@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "4yGf84yqg3M3hWSAmfYJiQYCCB5pfPWqmiqm3NZkYvA8",
+      "symbol": "aaaaaa",
+      "name": "sssssss",
+      "decimals": "2",
+      "logoURI": "ttu",
+      "tags": [
+        "tt"
+      ],
+      "extensions": {
+        "website": "czxcz",
+        "twitter": "czxcz"
+      }
     }
   ],
   "version": {
