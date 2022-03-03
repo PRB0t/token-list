@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BWPgYhsgxJmDchqXPUdn18MxQUU29PYtNAnQ23DYa4XY",
+      "symbol": "zxc",
+      "name": "ccc",
+      "decimals": "2",
+      "logoURI": "yyy",
+      "tags": [
+        "yy"
+      ],
+      "extensions": {
+        "website": "hh",
+        "twitter": "hh"
+      }
     }
   ],
   "version": {
