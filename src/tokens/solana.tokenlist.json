@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GfxyhnkT5fk7ENUoKfVA2Pc3nZFvuCr4tkWcgQaw81aE",
+      "symbol": "uuid-4",
+      "name": "uuid-name-4",
+      "decimals": 1,
+      "logoURI": "a",
+      "tags": [
+        "a"
+      ],
+      "extensions": {
+        "website": "a",
+        "twitter": "a"
+      }
     }
   ],
   "version": {
