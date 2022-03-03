@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "GQuwoJSCd5oLwMY7n6FG5icJuR7TYdUPbvm8T4ZVEREh",
+      "symbol": "uubd1",
+      "name": "uubd",
+      "decimals": "2",
+      "logoURI": "aa",
+      "tags": [
+        "aa"
+      ],
+      "extensions": {
+        "website": "aa",
+        "twitter": "aa"
+      }
     }
   ],
   "version": {
