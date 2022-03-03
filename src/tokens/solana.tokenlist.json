@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "AuMuoVsFpoaR1LiJCWW9xwmBGB1729yGf2fKqDDcZN38",
+      "symbol": "uuid-3",
+      "name": "Solana",
+      "decimals": 1,
+      "logoURI": "a",
+      "tags": [
+        "aa"
+      ],
+      "extensions": {
+        "website": "d",
+        "twitter": "a"
+      }
     }
   ],
   "version": {
