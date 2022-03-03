@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "8TMKvKqtDkskdXpGKJW8ikzS3MUBjL8YaPj42PFBQi8v",
+      "symbol": "uuid-2",
+      "name": "uuid-name-2-negative-supply",
+      "decimals": 1,
+      "logoURI": "https://en.wikipedia.org/wiki/Portable_Network_Graphics#/media/File:PNG_transparency_demonstration_1.png",
+      "tags": [
+        "a"
+      ],
+      "extensions": {
+        "website": "a",
+        "twitter": "a"
+      }
     }
   ],
   "version": {
