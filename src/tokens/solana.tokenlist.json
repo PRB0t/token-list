@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "ASUxcA6DCnK3NVNhBHkedeHLifAxsawPvTzPvyRpyJ2m",
+      "symbol": "qwe",
+      "name": "qwe",
+      "decimals": "3",
+      "logoURI": "https://dd",
+      "tags": [
+        "dd"
+      ],
+      "extensions": {
+        "website": "https://dd",
+        "twitter": "https://dd"
+      }
     }
   ],
   "version": {
