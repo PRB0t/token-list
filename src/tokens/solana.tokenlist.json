@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "2JsmrRihrf4ecmNV99PeFuNySeRCdhZ4fbK2PKLoiq6B",
+      "symbol": "MXM",
+      "name": "MXM",
+      "decimals": 1,
+      "logoURI": "asdfasdf",
+      "tags": [
+        "asdfa"
+      ],
+      "extensions": {
+        "website": "aosidfjwe",
+        "twitter": "asdfasdf"
+      }
     }
   ],
   "version": {
