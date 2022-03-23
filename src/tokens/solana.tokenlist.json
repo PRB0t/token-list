@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9uFcpfNEpWya9NNsnSgpnruPfCWm7wXWMihf9R6Gm4ho",
+      "symbol": "wdad",
+      "name": "da",
+      "decimals": 1,
+      "logoURI": "dwa",
+      "tags": [
+        "dwa"
+      ],
+      "extensions": {
+        "website": "daw",
+        "twitter": "adwd"
+      }
     }
   ],
   "version": {
