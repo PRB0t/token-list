@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "DKNk2FBcLS382m3ZdCvBbhPnMFCFDpXzW7rmxeUU3pus",
+      "symbol": "awd",
+      "name": "dwad",
+      "decimals": 1,
+      "logoURI": "dawd",
+      "tags": [
+        "dwad"
+      ],
+      "extensions": {
+        "website": "dwad",
+        "twitter": "awdwd"
+      }
     }
   ],
   "version": {
