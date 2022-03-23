@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6mMrzNitEZGEKiBb6RjfpPSm4ssszgZD9D74h5kYk5Bw",
+      "symbol": "MXM",
+      "name": "MXM",
+      "decimals": "3",
+      "logoURI": "ASDF",
+      "tags": [
+        "ASDF"
+      ],
+      "extensions": {
+        "website": "AWAEF",
+        "twitter": "ASDFWEF"
+      }
     }
   ],
   "version": {
