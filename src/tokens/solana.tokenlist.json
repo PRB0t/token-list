@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "aNYC386z3pe4jCVhJQhHaJ5PT88sYmSKzf8Ntsgh4pR",
+      "symbol": "fff",
+      "name": "aa",
+      "decimals": 1,
+      "logoURI": "hhh",
+      "tags": [
+        "jjj"
+      ],
+      "extensions": {
+        "website": "https://aaa",
+        "twitter": "https://aaa"
+      }
     }
   ],
   "version": {
