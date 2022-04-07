@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "7upAFepEszw3MtugMpzFQp9f9S38VDRQY1DRq4D8XLX7",
+      "symbol": "htc_test001",
+      "name": "htc_test001",
+      "decimals": 1,
+      "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoaFMCCZIJwu_6X4pQN8o201kOz_NY8uyCug&usqp=CAU",
+      "tags": [
+        "qwer"
+      ],
+      "extensions": {
+        "website": "https://baidu.com",
+        "twitter": "https://baidu.com"
+      }
     }
   ],
   "version": {
