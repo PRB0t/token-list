@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "dJhSZdsM1zTeL8unvCoXFbDYg1R4ZrU8Eq46fE5Jnm9",
+      "symbol": "htc_test002",
+      "name": "htc_test002",
+      "decimals": "6",
+      "logoURI": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSetcKCmLjB5fdFl0GoeoEQ-pb9Eb7PwcJ4sw&usqp=CAU",
+      "tags": [
+        "asdd"
+      ],
+      "extensions": {
+        "website": "http://bilibili.com",
+        "twitter": "http://bilibili.com"
+      }
     }
   ],
   "version": {
