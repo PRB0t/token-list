@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "9w8YV8tjEHGNvNicR1vnjp9h8zHtQW3KrsJyPYNPm66J",
+      "symbol": "MobF",
+      "name": "Mixmob freemium token",
+      "decimals": "6",
+      "logoURI": "https://pbs.twimg.com/profile_images/1447061506659471360/PO_LoAnH_400x400.jpg",
+      "tags": [
+        "freemium"
+      ],
+      "extensions": {
+        "website": "https://mixmob.io",
+        "twitter": "https://mobile.twitter.com/mixmoborigin"
+      }
     }
   ],
   "version": {
