@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "BL1DwQxpkxcgbcDp2EgJSfVLS2Gw1jCC7xsPHxXmSgPo",
+      "symbol": "a-t1",
+      "name": "a-t1",
+      "decimals": 1,
+      "logoURI": "https://mixmob.io/icon.png",
+      "tags": [
+        "tokenized-stock"
+      ],
+      "extensions": {
+        "website": "https://mixmob.io",
+        "twitter": "https://twitter.com/MixMobOrigin"
+      }
     }
   ],
   "version": {
