@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "31oE9CnecRpWoGxgmZFg3LqXWK91mS1koVfp6KyYktv2",
+      "symbol": "🍎",
+      "name": "Apple Token",
+      "decimals": 1,
+      "logoURI": "https://zerodrop.io",
+      "tags": [
+        "https://zerodrop.io"
+      ],
+      "extensions": {
+        "website": "https://zerodrop.io",
+        "twitter": "https://zerodrop.io"
+      }
     }
   ],
   "version": {
