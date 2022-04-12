@@ -116769,6 +116769,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "R1JGVZFhkhBtpbFHzCto2K9TwV8y9tpVizsbLYarXzA",
+      "symbol": "aswe",
+      "name": "aoiwe",
+      "decimals": "5",
+      "logoURI": "12312",
+      "tags": [
+        "awef"
+      ],
+      "extensions": {
+        "website": "asdfwe",
+        "twitter": "123123"
+      }
     }
   ],
   "version": {
