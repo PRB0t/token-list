@@ -116769,6 +116769,24 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "EQh2f4jZXPXoauSEikSBh3cbnZi9Mr3rt1MSTzweSMiC",
+      "symbol": "CDX",
+      "name": "Culture Index Token",
+      "decimals": "6",
+      "logoURI": "https://uploads-ssl.webflow.com/6204753c4ec43e44e0607512/6255ee7f029c51cf3d8c4a11_Token.png",
+      "tags": [
+        "GameFi",
+        "Game",
+        "P2E",
+        ""
+      ],
+      "extensions": {
+        "website": "https://www.mixmob.io/",
+        "twitter": "https://twitter.com/mixmoborigin"
+      }
     }
   ],
   "version": {
